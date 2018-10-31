@@ -1,4 +1,4 @@
-# workshop-pythonDataViz
+# Data Visualization with Python
 
 This workshop will cover creation of 2-D plots with Matplotlib (v. 2) and Seaborn, including publication-quality plots. Plots will include histograms, bar graphs, line graphs, scatter plots, and several types of statistical graphs.
 
